@@ -1,0 +1,20 @@
+24 is 19's grand grand father's grand grand grand son 
+22 is 6's grand father's grand grand grand son 
+32 is 29's grand grand father's grand grand son 
+28 is 5's father's grand grand grand son 
+20 is 19's grand grand grand father's grand grand grand son 
+13 is 31's grand grand grand grand father's grand grand son 
+29 is 26's grand father's grand son 
+26 is 9's grand father's grand grand grand son 
+11 is 16's grand father's son 
+7 is 8's father's son 
+1 is 9's grand grand grand father
+11 is 26's grand grand father's son 
+35 is 30's grand grand grand grand father's grand grand grand grand son 
+18 is 28's grand grand father's grand son 
+19 is 33's father
+28 is 31's grand grand father's grand grand son 
+11 is 7's grand father's grand grand son 
+29 is 17's son 
+25 is 30's grand grand grand father's grand grand grand son 
+34 is 26's grand grand grand grand father's grand grand grand grand son 

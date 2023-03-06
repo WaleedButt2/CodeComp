@@ -1,0 +1,22 @@
+9
+Pandy 609 130 5 3
+Moky 600 210 3 2
+Lino 50 200 7 5
+Elo 101 400 4 7
+Dony 110 300 3 6
+Ballo 600 200 8 2
+Gollo 800 140 6 1
+Horsy 600 120 7 4
+Jumpy 200 190 8 5
+
+
+9
+Pandy 609 130 5 3
+Moky 600 210 3 2
+Lino 50 200 7 5
+Elo 100 400 4 7
+Dony 110 300 3 6
+Ballo 600 200 8 2
+Gollo 800 140 6 1
+Horsy 600 120 7 4
+Jumpy 200 190 8 5

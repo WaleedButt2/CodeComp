@@ -1,0 +1,7 @@
+8 is 4's grand father's grand grand son 
+6 is 4's grand father's grand son 
+4 is 3's father's grand son 
+4 is 2's son 
+2 is 5's father
+5 is 8's grand grand father's grand son 
+7 is 8's grand father's son 
